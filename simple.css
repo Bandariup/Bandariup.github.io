@@ -13,7 +13,7 @@ body{
 head {
 	font-weight: 250;
 	color: #000000;
-	padding: 0;
+	padding: 0 auto;
 }
 
 p   {
