@@ -1,11 +1,11 @@
 header{
 	background-color:brown
-		text-align: center;
+	text-align: center;
 }
 body{
     margin: 0 auto;
     background-color:white;
- /   font-family:Times New Roman", Times, serif;
+ /   font-family:"Times New Roman" Times, serif;
     font-family: 'Autour One';font-size: 22px;
     color: #333333; /* dark gray not black, color of base font */
     max-width: 800px;
