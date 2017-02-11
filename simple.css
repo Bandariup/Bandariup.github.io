@@ -1,5 +1,6 @@
 head{
 	background-color: brown
+		text-align: center;
 }
 body{
     margin: 0 auto;
@@ -21,6 +22,7 @@ p   {
 
 h1, h2, h3, h4 {
     font-weight: 300;
+	color: #cc0000; 
     padding: 0;
 }
 
