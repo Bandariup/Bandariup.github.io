@@ -39,8 +39,9 @@ h2 {
     margin-bottom: 25px;	
 }
 h6 {
-	font-size: 250
+	font-size: 250%;
 	margin-bottom: 20px;
+	color: blue;
 }
 /*
 The following styles pertain to the way that hyperlinks are styled, 
