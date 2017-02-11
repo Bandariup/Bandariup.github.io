@@ -1,7 +1,7 @@
 body{
     margin: 0 auto;
     background-color:white;
- /   font-family:Georgia, Palatino, serif;
+ /   font-family:Tahoma, Verdana, Geneva, sans-serif;
     font-family: 'Autour One';font-size: 22px;
     color: #333333; /* dark gray not black, color of base font */
     max-width: 800px;
@@ -17,7 +17,7 @@ p   {
 }
 
 h1, h2, h3, h4 {
-    font-weight: 500;
+    font-weight: 300;
     padding: 0;
 }
 
@@ -37,14 +37,14 @@ The following styles pertain to the way that hyperlinks are styled,
 including differences between active and visited links.
 */
 a {
-    color: grey;
+    color: blue;
     margin: 0;
     padding: 0;
     vertical-align: baseline;
 }
 
 a:visited {
-    color: black;
+    color: green;
 }
 
 a:hover {
@@ -61,7 +61,7 @@ ul, ol {
     margin: 0px 0px 0px 50px;
 }
 ul {
-    list-style-type: square;
+    list-style-type: bullet;
     list-style-position: inside;
 
 }
