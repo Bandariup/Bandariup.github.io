@@ -16,9 +16,6 @@ img {
 	display: block;
 }
 
-head {
-	text-align: center;
-}
 
 p   {
     line-height: 150%;
@@ -44,7 +41,7 @@ h2 {
 	font-weight: bold;
 	color: blue;
 }
-h6 {
+head {
 	background-color: brown;
 	font-size: 250%;
 	color: #000000;
