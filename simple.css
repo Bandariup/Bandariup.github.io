@@ -41,6 +41,12 @@ h2 {
 	font-weight: bold;
 	color: blue;
 }
+
+h3 {
+	text-align: center;
+		color: brown;
+}
+
 h6 {
 	background-color: brown;
 	font-size: 250%;
