@@ -63,11 +63,13 @@ h4 {
 	color: brown;
 	font-variant:small-caps;
 	text-align: center;
+	font-weight: bold;
 }
 
 h5 {
 	color: brown;
 	font-variant:small-caps;
+	font-weight: bold;
 }
 	
 a {
