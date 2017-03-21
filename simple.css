@@ -60,10 +60,13 @@ h6 {
 
 h4 {
 	color: brown;
+	font-variant:small-caps;
+	text-align: center;
 }
 
 h5 {
 	color: brown;
+	font-variant:small-caps;
 }
 	
 a {
